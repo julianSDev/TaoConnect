@@ -113,13 +113,4 @@ By connecting through this app, you’re tapping directly into a **decentralized
 - **Blockchain Explorer**: https://explorer.tpn.network  
 - **Discord (Taufu)**: https://discord.gg/tpn
 
----
-
-## 📜 License
-
-This project is open‑source under the **MIT License** — see [LICENSE.md](LICENSE.md) for details.
-
----
-
-*Built with ❤️ by the TaoConnect community*
 
