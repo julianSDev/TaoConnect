@@ -1,5 +1,7 @@
 # TaoConnect
 
+https://tao-connect.vercel.app/
+
 A **stylish**, **responsive** single-page React application that allows users to interact with the **Tao Private Network (TPN)**—a decentralized, blockchain‑incentivized VPN infrastructure.  
 
 Users can:
@@ -113,13 +115,4 @@ By connecting through this app, you’re tapping directly into a **decentralized
 - **Blockchain Explorer**: https://explorer.tpn.network  
 - **Discord (Taufu)**: https://discord.gg/tpn
 
----
-
-## 📜 License
-
-This project is open‑source under the **MIT License** — see [LICENSE.md](LICENSE.md) for details.
-
----
-
-*Built with ❤️ by the TaoConnect community*
 
